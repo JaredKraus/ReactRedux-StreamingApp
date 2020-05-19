@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "description": "Here's some stream.",
+      "title": "HACKED YO",
+      "id": 2
+    },
+    {
+      "title": "My stream 2",
+      "description": "Made by me ya G",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Yeet SWAG",
+      "userId": "114970711897827256007",
+      "id": 4
+    }
+  ]
+}
